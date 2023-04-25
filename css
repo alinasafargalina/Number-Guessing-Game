@@ -1,0 +1,43 @@
+body {
+    background-image: url("img.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 160vh;
+    background-position: right-bottom;
+}
+
+#container {
+    background-color: #A6D0DD;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 50px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#guess {
+    padding: 10px;
+    width: 40%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    border-radius: 50px;
+    border: 1px solid;
+    border: 1px solid;
+}
+
+#btn {
+    background-color: #D14D72;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 50px;
+    border: none;
+}
